@@ -36,5 +36,7 @@ $ pod install
   **0.0.1**
   
   构建框架
+  
   加入UIView+frame.swift
+  
   加入NSObject+FromClassName.swift
